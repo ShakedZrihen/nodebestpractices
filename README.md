@@ -15,8 +15,6 @@
 
 
 
-
-
 <br/>
 
 [<img src="assets/images/twitter.svg" width="16" height="16" alt="" />](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
